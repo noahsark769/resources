@@ -31,6 +31,7 @@
 
 ###C
 1. [Coming to C from high level languages](http://www.chiark.greenend.org.uk/~sgtatham/cdescent/?HN_20140803)
+1. [Writing files in C][http://www.cprogramming.com/tutorial/cfileio.html]
 
 ####Cooking
 1. [One Pot Pastas](http://www.buzzfeed.com/emofly/one-pot-pastas)
