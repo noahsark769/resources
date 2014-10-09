@@ -56,6 +56,7 @@
 
 ####Infrastructure/sysadmin
 1. [Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
+1. [Rails and Docker and Vagrant](https://blog.abevoelker.com/rails-development-using-docker-and-vagrant/)
 
 ####ios
 1. [Build a self destructing messaging app](http://teamtreehouse.com/library/build-a-selfdestructing-message-iphone-app-2)
