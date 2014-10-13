@@ -51,6 +51,7 @@
 1. [Migrating to git from svn or perforce](http://git-scm.com/book/en/Git-and-Other-Systems-Migrating-to-Git)
 1. [Reverting a faulty merge](https://www.kernel.org/pub/software/scm/git/docs/howto/revert-a-faulty-merge.txt)
 1. ["Use of uninitialized value $u" in svn migration to git](http://stackoverflow.com/questions/11398415/git-svn-clone-fails-unexpectedly)
+1. [Fix for when the case of filenames won't change in git](http://nova-fusion.com/2011/08/31/changing-filename-case-in-git/)
 
 ####http
 1. [Decision Diagram](https://raw.github.com/for-GET/http-decision-diagram/master/httpdd.png)
