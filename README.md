@@ -35,6 +35,7 @@
 
 ###C++
 1. [Resolving circular dependencies](http://stackoverflow.com/questions/625799/resolve-circular-dependencies-in-c)
+1. [Intro to streams in c++](http://www.cprogramming.com/tutorial/c++-iostreams.html)
 
 ####Cooking
 1. [One Pot Pastas](http://www.buzzfeed.com/emofly/one-pot-pastas)
