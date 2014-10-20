@@ -31,7 +31,7 @@
 
 ###C
 1. [Coming to C from high level languages](http://www.chiark.greenend.org.uk/~sgtatham/cdescent/?HN_20140803)
-1. [Writing files in C][http://www.cprogramming.com/tutorial/cfileio.html]
+1. [Writing files in C](http://www.cprogramming.com/tutorial/cfileio.html)
 
 ###C++
 1. [Resolving circular dependencies](http://stackoverflow.com/questions/625799/resolve-circular-dependencies-in-c)
