@@ -36,6 +36,7 @@
 ###C++
 1. [Resolving circular dependencies](http://stackoverflow.com/questions/625799/resolve-circular-dependencies-in-c)
 1. [Intro to streams in c++](http://www.cprogramming.com/tutorial/c++-iostreams.html)
+1. [Why std::istringstream extraction fails for unix line endings](http://stackoverflow.com/questions/2767298/c-repeatedly-using-istringstream?rq=1)
 
 ####Cooking
 1. [One Pot Pastas](http://www.buzzfeed.com/emofly/one-pot-pastas)
