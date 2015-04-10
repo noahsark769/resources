@@ -48,6 +48,9 @@
 1. [Graphic Design Books](https://www.youtube.com/watch?v=qyV0ZfCAs5c&src_vid=ep-K_Xvq2zY&feature=iv&annotation_id=annotation_742998)
 1. [Outcome, Vision, Interaction, Visual](http://insideintercom.io/the-dribbblisation-of-design/)
 
+#### DNS
+1. [Chrome keeps redirecting example.com to example.com/cgi-sys/defaultwebpage.cgi](http://serverfault.com/questions/464284/example-com-cgi-sys-defaultwebpage-cgi-subdirectory-constantly-appearing-inste)
+
 ####Entrepreneurship
 1. [Financing for SaaS startups (with google spreadsheet)](http://christophjanz.blogspot.com/2012/03/financial-planning-for-saas-startups.html)
 2. [Incorporating user feedback into your startup's strategy](http://thenextweb.com/entrepreneur/2013/05/04/8-ways-to-incorporate-customer-feedback-into-your-startups-strategy/)
