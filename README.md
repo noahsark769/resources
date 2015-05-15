@@ -54,6 +54,7 @@
 ####Entrepreneurship
 1. [Financing for SaaS startups (with google spreadsheet)](http://christophjanz.blogspot.com/2012/03/financial-planning-for-saas-startups.html)
 2. [Incorporating user feedback into your startup's strategy](http://thenextweb.com/entrepreneur/2013/05/04/8-ways-to-incorporate-customer-feedback-into-your-startups-strategy/)
+3. [Methods of company evaluation at early, middle, late stage](http://fundersandfounders.com/how-startup-valuation-works/)
 
 ####Git
 1. [Migrating to git from svn or perforce](http://git-scm.com/book/en/Git-and-Other-Systems-Migrating-to-Git)
