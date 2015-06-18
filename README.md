@@ -9,6 +9,9 @@
 1. [Data Science: Analytics Handbook](http://www.analyticshandbook.com/)
 1. [Machine Learning] See "Machine Learning"
 
+####Amazon
+1. [Walkthrough for creating IAM users (for s3 etc)](http://docs.aws.amazon.com/IAM/latest/UserGuide/roles-walkthrough-crossacct-1-createrole.html)
+
 ####Android
 1. [Build a self destructing messaging app](http://teamtreehouse.com/library/build-a-selfdestructing-message-android-app)
 1. [Codepath android tutorial](https://github.com/thecodepath/android_guides/wiki)
