@@ -72,6 +72,9 @@
 1. [Docker cheat sheet](https://github.com/wsargent/docker-cheat-sheet)
 1. [Rails and Docker and Vagrant](https://blog.abevoelker.com/rails-development-using-docker-and-vagrant/)
 
+####Image Processing
+1. [Cmake for building opencv 3.0 on Mac OSX](http://pastebin.com/57P76FaL)
+
 ####ios
 1. [Build a self destructing messaging app](http://teamtreehouse.com/library/build-a-selfdestructing-message-iphone-app-2)
 1. [Get the name of a currently connected wifi network](http://stackoverflow.com/questions/4712535/how-do-i-use-captivenetwork-to-get-the-current-wifi-hotspot-name)
