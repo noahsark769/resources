@@ -91,6 +91,9 @@
 1. [Stanford NLP tutorial](http://nlp.stanford.edu/courses/NAACL2013/)
 1. [So you wanna try deep learning](http://snippyhollow.github.io/blog/2014/08/09/so-you-wanna-try-deep-learning/)
 
+####Music
+1. [Notation conventions](http://icking-music-archive.org/lists/sottisier/notation.pdf)
+
 ####MySQL
 1. [Install mysql-server via a script without having annoying root password prompt](http://stackoverflow.com/questions/7739645/install-mysql-on-ubuntu-without-password-prompt)
 
